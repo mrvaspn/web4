@@ -1,0 +1,54 @@
+.zadanie1{
+	width: 330px;
+	padding: 30px;
+	border: 40px solid #E0CFB1;
+	margin: 20px;
+	text-align: center;
+}
+.zadanie2{
+	width: 330px;
+	border: 40px solid #E0CFB1;
+	box-sizing: boreder-box;
+	margin: 20px;
+	text-align: center;
+}
+.zadanie3{
+	padding: 30px;
+	margin: 20px;
+	width: 330px;
+	border: 40px solid #E0CFB1; 
+	text-align: center;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.zadanie4{
+	padding: 30px;
+	margin: 20px;
+	width: 330px;
+	border: 40px solid #E0CFB1; 
+	text-align: center;
+	box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+}
+
+#paragraph1 {
+	padding: 10px;
+	border: 2px solid black;
+	background-color: lightgrey;
+}
+
+#paragraph2 {
+	padding: 10px;
+	background-color: lightgrey;
+	border: 2px solid black;
+	margin: 20px;
+}
+
+#paragraph3 {
+	display: inline-block;
+	padding:10px;
+	background-color: lightgrey;
+	border:2px solid black;
+}
